@@ -1,0 +1,13 @@
+title: "Deephathi Blog"
+description: "A simple blog powered by Jekyll"
+url: "" # set the site URL
+
+# Enable GitHub Pages compatible configuration
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Use minima theme as a base
+# but layouts will override with custom templates
+
+theme: minima
